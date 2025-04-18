@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Waldemar Queiroz, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou estudando Desenvolvimento de Sistemas de casa e aperfeicoando meus conhecimentos, assim em busca do meu primeiro emprego na área, Sou apaixonado por tecnologia.
+Me chamo Gabriel Augusto da Silva Canassa, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Waldemar Queiroz, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou estudando Desenvolvimento de Sistemas de casa e aperfeicoando meus conhecimentos, assim em busca do meu primeiro emprego na área, Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
