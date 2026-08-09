@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel Canassa
+# 👨‍💻 Gabriel Augusto
 
 ### Desenvolvedor de Sistemas em formação
 
